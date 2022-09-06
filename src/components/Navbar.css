@@ -1,0 +1,19 @@
+.navbar {
+    flex: 1;
+    background-color: #7ab0b8;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+.navbar-item {
+    color: #151316;
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    text-decoration: none;
+}
+
+.navbar-item:hover {
+    background-color: #0088A3;
+}
