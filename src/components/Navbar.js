@@ -6,11 +6,12 @@ function Navbar() {
     return (
         <div class = "navbar">
             <Link to="/" class="navbar-item"> Home </Link>
-            <Link to="/time" class="navbar-item">Time</Link>
-            <Link to="/" class="navbar-item">PlaceHolder</Link>
-            <Link to="/" class="navbar-item">PlaceHolder</Link>
-            <Link to="/" class="navbar-item">PlaceHolder</Link>
-            <Link to="/" class="navbar-item">PlaceHolder</Link>
+            <Link to="/time" class="navbar-item">Time Tracking</Link>
+            <Link to="/four-up" class="navbar-item">FourUp Charts</Link>
+            <Link to="/" class="navbar-item">Project Plan</Link>
+            <Link to="/" class="navbar-item">Metrics</Link>
+            <Link to="/" class="navbar-item">Domain Model</Link>
+            <Link to="/" class="navbar-item">Action Items 2.0</Link>
         </div>
     );
 }
