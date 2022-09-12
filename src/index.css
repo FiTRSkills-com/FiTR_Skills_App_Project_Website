@@ -12,12 +12,20 @@ code {
     monospace;
 }
 
-.header-test {
+.header-text {
   color: #151316;
-  font-size: 3rem;
+  font-size: 1.5rem;
+  margin: 5px;
 }
 
-.body-text {
+.subheader-text {
+  margin: 5px;
   color: #151316;
   font-size: 1.3rem;
+}
+
+.bodyText {
+  color: #151316;
+  font-size: 1rem;
+  margin: 10px 10px 10px 10px;
 }
