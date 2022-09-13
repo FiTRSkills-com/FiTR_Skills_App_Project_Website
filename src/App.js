@@ -5,7 +5,7 @@ import { Home } from './components/Home';
 import { Time } from './components/Time';
 import { Metric } from './components/Metric';
 import { FourUp } from './components/FourUp';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
 function App() {
   return (
@@ -17,6 +17,7 @@ function App() {
           <Route path="/time" element={<Time />} />
           <Route path="/four-up" element={<FourUp />} />
           <Route path="/metric" element={<Metric />} />
+          <Route path="/FiTR_Skills_App_Project_Website" element={<Navigate to="/" />} />
         </Routes>
       </BrowserRouter>
     </div>
