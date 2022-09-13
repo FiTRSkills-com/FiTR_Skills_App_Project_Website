@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ca1e06f.css",
-    "main.js": "/static/js/main.41fc138c.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.5ca1e06f.css.map": "/static/css/main.5ca1e06f.css.map",
-    "main.41fc138c.js.map": "/static/js/main.41fc138c.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/FiTR_Skills_App_Project_Website/static/css/main.5ca1e06f.css",
+    "main.js": "/FiTR_Skills_App_Project_Website/static/js/main.46e28ae9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/FiTR_Skills_App_Project_Website/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/FiTR_Skills_App_Project_Website/index.html",
+    "main.5ca1e06f.css.map": "/FiTR_Skills_App_Project_Website/static/css/main.5ca1e06f.css.map",
+    "main.46e28ae9.js.map": "/FiTR_Skills_App_Project_Website/static/js/main.46e28ae9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/FiTR_Skills_App_Project_Website/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ca1e06f.css",
-    "static/js/main.41fc138c.js"
+    "static/js/main.46e28ae9.js"
   ]
 }
