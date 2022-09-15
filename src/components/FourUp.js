@@ -1,4 +1,5 @@
 import React from 'react';
+import './FourUp.css';
 
 function FourUp() {
     return (
