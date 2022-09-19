@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FiTR_Skills_App_Project_Website/static/css/main.e4675f9d.css",
-    "main.js": "/FiTR_Skills_App_Project_Website/static/js/main.62dbfdc8.js",
+    "main.css": "/FiTR_Skills_App_Project_Website/static/css/main.3a3ef6ef.css",
+    "main.js": "/FiTR_Skills_App_Project_Website/static/js/main.fd8d108e.js",
     "static/js/787.28cb0dcd.chunk.js": "/FiTR_Skills_App_Project_Website/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/FiTR_Skills_App_Project_Website/index.html",
-    "main.e4675f9d.css.map": "/FiTR_Skills_App_Project_Website/static/css/main.e4675f9d.css.map",
-    "main.62dbfdc8.js.map": "/FiTR_Skills_App_Project_Website/static/js/main.62dbfdc8.js.map",
+    "main.3a3ef6ef.css.map": "/FiTR_Skills_App_Project_Website/static/css/main.3a3ef6ef.css.map",
+    "main.fd8d108e.js.map": "/FiTR_Skills_App_Project_Website/static/js/main.fd8d108e.js.map",
     "787.28cb0dcd.chunk.js.map": "/FiTR_Skills_App_Project_Website/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4675f9d.css",
-    "static/js/main.62dbfdc8.js"
+    "static/css/main.3a3ef6ef.css",
+    "static/js/main.fd8d108e.js"
   ]
 }
